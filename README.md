@@ -1,4 +1,3 @@
-# AMJ
 # Africa Medical Journal: Advancing Medical Research and Healthcare in Africa
 
 ## Introduction
@@ -39,6 +38,13 @@ Health equity remains a pressing concern across Africa, with disparities in acce
 
 As the torchbearer of medical research in Africa, AMJ also plays a role in nurturing future leaders in the field. The journal actively engages with medical students, residents, and early-career researchers, providing mentorship opportunities and promoting academic excellence. By doing so, AMJ invests in the next generation of researchers, ensuring the continuity of impactful medical research in Africa.
 
-## Conclusion
+## Contact Information
 
-The Africa Medical Journal stands as a testament to the power of collaboration, knowledge exchange, and evidence-based practice. As Africa faces its unique health challenges, this journal plays a pivotal role in enhancing medical research on the continent. By fostering collaboration, empowering local researchers, and advocating for health equity, AMJ illuminates the path to a healthier Africa. As the journal continues its journey, it will undoubtedly leave an indelible mark on the continent's healthcare landscape, inspiring generations of researchers and healthcare professionals to work collectively towards a healthier, more equitable future.
+For more information, please contact us at:
+- General Information: [info@africamedicaljournal.com](mailto:info@africamedicaljournal.com)
+- Paper Submission by Authors: [amj@africamedicaljournal.com](mailto:amj@africamedicaljournal.com)
+- Grant Applications for the African Young Researchers Program: [grants@africamedicaljournal.com](mailto:grants@africamedicaljournal.com)
+
+---
+
+Africa Medical Journal © 2023
