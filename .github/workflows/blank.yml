@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Medical Journal</title>
+    <style>
+        /* Add your CSS styles here */
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #3468A5;
+            color: #fff;
+            text-align: center;
+            padding: 1rem;
+        }
+
+        nav {
+            background-color: #4380B2;
+            display: flex;
+            justify-content: center;
+            padding: 0.5rem;
+        }
+
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 1rem;
+        }
+
+        main {
+            padding: 1rem;
+        }
+
+        footer {
+            background-color: #3468A5;
+            color: #fff;
+            text-align: center;
+            padding: 1rem;
+        }
+
+        /* Custom styles for medical journal website */
+        section {
+            margin-bottom: 2rem;
+            padding: 1rem;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+
+        h2 {
+            color: #3468A5;
+        }
+
+        p {
+            line-height: 1.8;
+        }
+
+        .publication-item {
+            margin-bottom: 1rem;
+        }
+
+        .publication-item h3 {
+            margin: 0;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Medical Journal</h1>
+    </header>
+
+    <nav>
+        <a href="#home">Home</a>
+        <a href="#about">About</a>
+        <a href="#latest-publications">Latest Publications</a>
+        <a href="#for-authors">For Authors</a>
+        <a href="#subscribe">Subscribe</a>
+        <a href="#contacts">Contacts</a>
+    </nav>
+
+    <main>
+        <!-- Home Page Content -->
+        <section id="home">
+            <h2>Welcome to Medical Journal</h2>
+            <p>Welcome to the Medical Journal website. Stay updated with the latest medical research and discoveries.</p>
+            <!-- Add your home page content here -->
+        </section>
+
+        <!-- About Page Content -->
+        <section id="about">
+            <h2>About Medical Journal</h2>
+            <p>Medical Journal is a reputable platform for publishing medical research and academic articles. Our mission is to advance medical knowledge and improve healthcare outcomes.</p>
+            <!-- Add your about page content here -->
+        </section>
+
+        <!-- Latest Publications Page Content -->
+        <section id="latest-publications">
+            <h2>Latest Publications</h2>
+            <div class="publication-item">
+                <h3>Recent Research Findings</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce malesuada velit vitae felis pretium iaculis.</p>
+            </div>
+            <div class="publication-item">
+                <h3>Advancements in Medical Technology</h3>
+                <p>Nulla facilisi. Sed in dui id elit auctor hendrerit nec vitae turpis.</p>
+            </div>
+            <!-- Add more publication items here -->
+        </section>
+
+        <!-- For Authors Page Content -->
+        <section id="for-authors">
+            <h2>For Authors</h2>
+            <p>If you are a medical researcher or professional, you can submit your articles and research papers for consideration in our journal. Please review our submission guidelines for more information.</p>
+            <!-- Add your for authors page content here -->
+        </section>
+
+        <!-- Subscribe Page Content -->
+        <section id="subscribe">
+            <h2>Subscribe to Medical Journal</h2>
+            <p>Stay informed about the latest medical research by subscribing to our newsletter.</p>
+            <!-- Add your subscribe page content here -->
+        </section>
+
+        <!-- Contacts Page Content -->
+        <section id="contacts">
+            <h2>Contact Medical Journal</h2>
+            <p>If you have any inquiries or feedback, please don't hesitate to contact us. We value your input.</p>
+            <!-- Add your contacts page content here -->
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Medical Journal. All rights reserved.</p>
+    </footer>
+</body>
+
+</html>
