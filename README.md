@@ -10,31 +10,31 @@ Established with a vision to bridge the gap between research and practice in the
 
 ## The Role of AMJ in Enhancing Medical Research
 
-1. **Promoting Evidence-Based Practice**
+- **Promoting Evidence-Based Practice**
 
 One of the primary objectives of AMJ is to promote evidence-based practice within the African healthcare landscape. By providing a robust peer-review process and publishing high-quality research articles, the journal ensures that the information disseminated is credible and reliable. This empowers healthcare practitioners to make informed decisions and adopt evidence-based interventions, ultimately leading to improved patient outcomes.
 
-2. **Addressing Regional Health Challenges**
+- **Addressing Regional Health Challenges**
 
 Africa is not a monolithic entity; each region grapples with its unique health challenges. From malaria in sub-Saharan Africa to hypertension in North Africa, AMJ strives to address these regional variations and provide context-specific research. The journal actively encourages researchers to focus on health issues that impact specific regions, ensuring that the findings resonate with the communities they aim to serve.
 
-3. **Fostering Collaboration and Knowledge Exchange**
+- **Fostering Collaboration and Knowledge Exchange**
 
 In a continent as vast and diverse as Africa, collaboration among researchers and healthcare professionals is vital. AMJ acts as a catalyst for such collaboration by bringing together experts from different disciplines and regions. This exchange of knowledge not only enriches the pool of medical research but also lays the foundation for innovative and interdisciplinary solutions to complex health challenges.
 
-4. **Encouraging Local Research Initiatives**
+- **Encouraging Local Research Initiatives**
 
 AMJ recognizes the importance of local research initiatives in shaping the future of African healthcare. The journal actively encourages researchers from African institutions to submit their work, providing a platform for local voices and perspectives. By doing so, AMJ empowers African researchers to take ownership of their contributions to the field and showcases the wealth of knowledge that exists within the continent.
 
-5. **Building Research Capacity**
+- **Building Research Capacity**
 
 To enhance medical research in Africa sustainably, it is essential to invest in building research capacity. AMJ plays an instrumental role in this regard by publishing research on research methodologies and capacity-building initiatives. These articles equip aspiring researchers with the tools and knowledge needed to conduct impactful studies and contribute meaningfully to the scientific community.
 
-6. **Advocating for Health Equity**
+- **Advocating for Health Equity**
 
 Health equity remains a pressing concern across Africa, with disparities in access to healthcare and resources. AMJ uses its platform to advocate for health equity and draw attention to the importance of prioritizing underserved populations. By highlighting research that addresses health disparities, the journal aims to inform policymakers and drive transformative change in healthcare policy and practice.
 
-7. **Nurturing Future Leaders**
+- **Nurturing Future Leaders**
 
 As the torchbearer of medical research in Africa, AMJ also plays a role in nurturing future leaders in the field. The journal actively engages with medical students, residents, and early-career researchers, providing mentorship opportunities and promoting academic excellence. By doing so, AMJ invests in the next generation of researchers, ensuring the continuity of impactful medical research in Africa.
 
