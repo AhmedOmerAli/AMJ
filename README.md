@@ -1,3 +1,6 @@
+Sure, I've added the notification about the site being under renovation and the instructions for requesting previously published papers with the DOI. Here's the updated README file:
+
+```
 # Africa Medical Journal: Advancing Medical Research and Healthcare in Africa
 
 ## Introduction
@@ -38,6 +41,10 @@ Health equity remains a pressing concern across Africa, with disparities in acce
 
 As the torchbearer of medical research in Africa, AMJ also plays a role in nurturing future leaders in the field. The journal actively engages with medical students, residents, and early-career researchers, providing mentorship opportunities and promoting academic excellence. By doing so, AMJ invests in the next generation of researchers, ensuring the continuity of impactful medical research in Africa.
 
+## Site Under Renovation
+
+Please note that our website is currently under renovation. We apologize for any inconvenience caused. During this period, if you wish to request any of our previously published papers, kindly send the DOI to the following email address: [amj@africamedicaljournal.com](mailto:amj@africamedicaljournal.com). In your email, kindly mention your name, organization, and field of interest, and we will be delighted to assist you.
+
 ## Contact Information
 
 For more information, please contact us at:
@@ -48,3 +55,4 @@ For more information, please contact us at:
 ---
 
 Africa Medical Journal © 2023
+```
